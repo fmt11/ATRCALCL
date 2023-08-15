@@ -1,0 +1,8 @@
+{
+  "appId": "com.atrcalc.app",
+  "appName": "atrcalc",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
